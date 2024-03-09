@@ -1,0 +1,29 @@
+div {
+  margin: auto;
+  width: 52%;
+  border: none;
+  padding: 10px;
+}
+h1 {
+    font-family: Pacifico;
+    font-weight: bold;
+}
+h2 {
+    font-weight: lighter;
+    font-family: Pacifico;
+}
+p {
+    font-family: Lobster;
+    font-size: 25px;
+    
+}
+.intro, .outro {
+    font-family: Cedarville Cursive;
+}
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+body {
+    background-color: #000;
+}
